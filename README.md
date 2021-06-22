@@ -4,6 +4,7 @@ Step 2: Click on Add Frame.
 <br>
 Step 3: Search 'Kishaan' on search bar.
 <br>
+<img src="https://github.com/Kishaan-Enterprise/Kishaan_research/blob/main/Screenshots/frame.png?raw=true">
 <br>
 Simply use it!!!
 <br>
